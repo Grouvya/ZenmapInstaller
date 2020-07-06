@@ -1,7 +1,7 @@
 # ZenmapInstaller
 Zenmap installer for ubuntu 20.04 and kali 2020
 
-installation: 
+ინსტალაცია / installation: 
 
 git clone https://github.com/Grouvya/ZenmapInstaller.git
 
